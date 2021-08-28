@@ -1,3 +1,4 @@
 # Presenting-the-gauss-prime-forumula
-Trace the courbe of prime formula less than x 
+<p>Trace the courbe of prime formula less than x </p>
 using python library : matplotlib - numpy - pylab 
+<img src="https://primes.utm.edu/gifs/pi100.gif"></img>
